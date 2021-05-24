@@ -3,3 +3,7 @@
 #include <string.h>
 #include "indice.h"
 #include "dispersion.h"
+
+int main() {
+	
+}
